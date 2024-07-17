@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=450b7de2_002D7442_002D4937_002Db45b_002D1db02230d13f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BookingsControllerTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::C79189AD-3B80-4F74-BDA3-7270E51B17E8::net8.0::HotelAppTests.Controllers.BookingsControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5a58cc2a_002D3841_002D4485_002D9173_002D11001bd2ce01/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BookingsControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::C79189AD-3B80-4F74-BDA3-7270E51B17E8::net8.0::HotelAppTests.Controllers.BookingsControllerTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::C79189AD-3B80-4F74-BDA3-7270E51B17E8::net8.0::HotelAppTests.Controllers.GuestsControllerTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::C79189AD-3B80-4F74-BDA3-7270E51B17E8::net8.0::HotelAppTests.Controllers.ReviewsControllerTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;C79189AD-3B80-4F74-BDA3-7270E51B17E8/d:Controllers/f:HotelControllerTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

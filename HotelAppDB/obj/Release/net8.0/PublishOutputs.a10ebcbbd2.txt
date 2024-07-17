@@ -1,0 +1,7 @@
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/bin/Release/net8.0/publish/HotelAppDB.dll
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/bin/Release/net8.0/publish/HotelAppDB.deps.json
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/bin/Release/net8.0/publish/HotelAppDB.pdb
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/bin/Release/net8.0/publish/Dapper.dll
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/bin/Release/net8.0/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/bin/Release/net8.0/publish/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/bin/Release/net8.0/publish/Npgsql.dll

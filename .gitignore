@@ -1,0 +1,26 @@
+/HotelAppTests/appsettings.json
+/HotelAppAPI/appsettings.json
+/HotelAppDataAccess/appsettings.json
+
+# Log files
+*.log
+
+# Visual Studio files
+.vs/
+
+# User-specific files
+*.suo
+
+# Build results
+[Dd]ebug/
+
+# Dependency directories
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+
+# Temporary files
+*.tmp
+*.temp
+*.cache

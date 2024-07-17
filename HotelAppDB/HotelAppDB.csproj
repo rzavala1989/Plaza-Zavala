@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include=".idea\.gitignore" />
+      <Content Include=".idea\.idea.HotelPostgres.dir\.idea\.gitignore" />
+      <Content Include=".idea\.idea.HotelPostgres.dir\.idea\dataSources.local.xml" />
+      <Content Include=".idea\.idea.HotelPostgres.dir\.idea\dataSources.xml" />
+      <Content Include=".idea\.idea.HotelPostgres.dir\.idea\dataSources\1e76309c-476d-4775-8cc3-6f88cdc3ccff.xml" />
+      <Content Include=".idea\.idea.HotelPostgres.dir\.idea\dataSources\1e76309c-476d-4775-8cc3-6f88cdc3ccff\storage_v2\_src_\database\postgres.edMnLQ.meta" />
+      <Content Include=".idea\.idea.HotelPostgres.dir\.idea\dataSources\1e76309c-476d-4775-8cc3-6f88cdc3ccff\storage_v2\_src_\database\postgres.edMnLQ\schema\public.abK9xQ.meta" />
+      <Content Include=".idea\.idea.HotelPostgres.dir\.idea\dbnavigator.xml" />
+      <Content Include=".idea\.idea.HotelPostgres.dir\.idea\encodings.xml" />
+      <Content Include=".idea\.idea.HotelPostgres.dir\.idea\indexLayout.xml" />
+      <Content Include=".idea\.idea.HotelPostgres.dir\.idea\projectSettingsUpdater.xml" />
+      <Content Include=".idea\.idea.HotelPostgres.dir\.idea\workspace.xml" />
+      <Content Include=".idea\dataSources.local.xml" />
+      <Content Include=".idea\dataSources.xml" />
+      <Content Include=".idea\dataSources\9edaea9e-1ee2-4a7c-9d47-5123103bda60.xml" />
+      <Content Include=".idea\dataSources\9edaea9e-1ee2-4a7c-9d47-5123103bda60\storage_v2\_src_\database\postgres.edMnLQ.meta" />
+      <Content Include=".idea\dataSources\9edaea9e-1ee2-4a7c-9d47-5123103bda60\storage_v2\_src_\database\postgres.edMnLQ\schema\hotelmanagement.96j08Q.meta" />
+      <Content Include=".idea\dataSources\9edaea9e-1ee2-4a7c-9d47-5123103bda60\storage_v2\_src_\database\postgres.edMnLQ\schema\hotelmanagement.96j08Q.zip" />
+      <Content Include=".idea\dataSources\9edaea9e-1ee2-4a7c-9d47-5123103bda60\storage_v2\_src_\database\postgres.edMnLQ\schema\hotelmanager.ebtj5A.meta" />
+      <Content Include=".idea\dataSources\9edaea9e-1ee2-4a7c-9d47-5123103bda60\storage_v2\_src_\database\postgres.edMnLQ\schema\public.abK9xQ.meta" />
+      <Content Include=".idea\HotelPostgres.iml" />
+      <Content Include=".idea\modules.xml" />
+      <Content Include=".idea\sqldialects.xml" />
+      <Content Include=".idea\workspace.xml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="2.1.35" />
+      <PackageReference Include="Npgsql" Version="8.0.3" />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.4" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelAppDataAccess", "HotelAppDataAccess\HotelAppDataAccess.csproj", "{47EA0658-F8DD-4DB5-8907-5FA56624B527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelAppAPI", "HotelAppAPI\HotelAppAPI.csproj", "{BF6524D0-E742-47F8-BA36-65464826161A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelAppTests", "HotelAppTests\HotelAppTests.csproj", "{C79189AD-3B80-4F74-BDA3-7270E51B17E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47EA0658-F8DD-4DB5-8907-5FA56624B527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EA0658-F8DD-4DB5-8907-5FA56624B527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EA0658-F8DD-4DB5-8907-5FA56624B527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EA0658-F8DD-4DB5-8907-5FA56624B527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6524D0-E742-47F8-BA36-65464826161A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6524D0-E742-47F8-BA36-65464826161A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6524D0-E742-47F8-BA36-65464826161A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6524D0-E742-47F8-BA36-65464826161A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79189AD-3B80-4F74-BDA3-7270E51B17E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79189AD-3B80-4F74-BDA3-7270E51B17E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79189AD-3B80-4F74-BDA3-7270E51B17E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79189AD-3B80-4F74-BDA3-7270E51B17E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

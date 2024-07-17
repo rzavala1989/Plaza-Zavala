@@ -1,0 +1,12 @@
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/bin/Release/net8.0/HotelAppDB.deps.json
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/bin/Release/net8.0/HotelAppDB.dll
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/bin/Release/net8.0/HotelAppDB.pdb
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/obj/Release/net8.0/HotelAppDB.csproj.AssemblyReference.cache
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/obj/Release/net8.0/HotelAppDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/obj/Release/net8.0/HotelAppDB.AssemblyInfoInputs.cache
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/obj/Release/net8.0/HotelAppDB.AssemblyInfo.cs
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/obj/Release/net8.0/HotelAppDB.csproj.CoreCompileInputs.cache
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/obj/Release/net8.0/HotelAppDB.dll
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/obj/Release/net8.0/refint/HotelAppDB.dll
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/obj/Release/net8.0/HotelAppDB.pdb
+/Users/ricardozavala/RiderProjects/HotelApp/HotelAppDB/obj/Release/net8.0/ref/HotelAppDB.dll

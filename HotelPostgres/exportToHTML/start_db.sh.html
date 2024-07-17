@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>start_db.sh</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #bcbec4; font-weight: bold;}
+.s1 { color: #bcbec4;}
+.s2 { color: #7a7e85;}
+.s3 { color: #6aab73;}
+.s4 { color: #bcbec4;}
+</style>
+</head>
+<body bgcolor="#1e1f22">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+start_db.sh</font>
+</center></td></tr></table>
+<pre><span class="s0">#!/bin/bash</span>
+
+<span class="s2"># Set the database connection string</span>
+<span class="s1">DB_CONNECTION_STRING=</span><span class="s3">&quot;your_connection_string_here&quot;</span>
+
+<span class="s2"># Run the SQL scripts to create your database and tables</span>
+<span class="s1">psql </span><span class="s4">$DB_CONNECTION_STRING </span><span class="s1">-f ./dbo/Tables/RoomTypes.sql</span>
+<span class="s1">psql </span><span class="s4">$DB_CONNECTION_STRING </span><span class="s1">-f ./dbo/Tables/Rooms.sql</span>
+<span class="s1">psql </span><span class="s4">$DB_CONNECTION_STRING </span><span class="s1">-f ./dbo/Tables/Guests.sql</span>
+<span class="s1">psql </span><span class="s4">$DB_CONNECTION_STRING </span><span class="s1">-f ./dbo/Tables/Bookings.sql</span>
+
+<span class="s1">echo </span><span class="s3">&quot;Database initialized successfully.&quot;</span></pre>
+</body>
+</html>
